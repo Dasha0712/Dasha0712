@@ -1,4 +1,4 @@
-Hi There
+-👋🏻 Hi There
 
 - 🔭 I’m currently studying BE
 - 🌱 I’m currently learning ... Datab science using python
@@ -8,4 +8,4 @@ Hi There
 - 📫 How to reach me: ...my email i'd || gireevandasha@gmail.com ||
 - 😄 Pronouns: ...
 - ⚡ Rome was not built in a day.
--->
+
